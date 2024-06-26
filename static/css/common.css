@@ -1,6 +1,22 @@
 @font-face {
   font-family: DWNserif;
+  font-weight: normal;
   src: url("/static/font/simsun16.woff2")
+}
+
+@font-face {
+  font-family: DWNserif;
+  font-weight: bold;
+  src: url("/static/font/simsunbd.woff2")
+}
+
+@font-face {
+  font-family: DWNserifTitle;
+  src: url("/static/font/simsun20.woff2");
+}
+
+code {
+  font-family: DWNserif, SimSun, ".PingFang SC", "Noto Sans CJK", sans-serif;
 }
 
 html {
