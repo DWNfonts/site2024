@@ -15,6 +15,11 @@
   src: url("/static/font/simsun20.woff2");
 }
 
+@font-face {
+  font-family: VonwaonBitmap; /* 6 寄时代 */
+  src: url("static/font/VonwaonBitmap-12px.ttf");
+}
+
 code {
   font-family: DWNserif, SimSun, ".PingFang SC", "Noto Sans CJK", sans-serif;
 }
@@ -157,7 +162,8 @@ input:-webkit-autofill {
 }
 .footer {
   padding: 15px 0;
-  font-size: 14px;
+  font-family: VonwaonBitmap, 文泉驿点阵正黑, SimSun;
+  font-size: 12px;
 }
 .footer a {
   text-decoration: underline;
