@@ -55,5 +55,19 @@ extCount: false
 
 # 友情链接
 links:
-  - title: DWNfonts
+  - title: "DWNfonts"
     url: https://dwnfonts.cc
+  - title: "GitHub / DWNfonts"
+    url: https://github.com/DWNfonts
+  - title: "QQ 群 / 619164913"
+    url: https://qm.qq.com/q/m3j4G5YGsw
+  - title: "itch.io / @diaowinner"
+    url: http://diaowinner.itch.io/
+  - title: 爱发电 / @DWNfonts
+    url: http://afdian.net/a/DWNfonts
+  - title: "@dwnfonts@typo.social"
+    url: https://typo.social/@dwnfonts
+  - title: "!dwnfonts@lemmy.world"
+    url: https://lemmy.world/c/dwnfonts
+  - title: "@dwnfonts.cc (hosted on Bluesky)"
+    url: https://bsky.app/profile/dwnfonts.cc
