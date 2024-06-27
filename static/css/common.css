@@ -17,7 +17,7 @@
 
 @font-face {
   font-family: "凤凰点阵体"; /* 凤老爷你怎么似了 */
-  src: url("static/font/VonwaonBitmap-12px.ttf");
+  src: url("/static/font/VonwaonBitmap-12px.ttf");
 }
 
 code {
