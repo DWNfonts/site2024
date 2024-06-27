@@ -16,7 +16,7 @@
 }
 
 @font-face {
-  font-family: VonwaonBitmap; /* 6 寄时代 */
+  font-family: "凤凰点阵体"; /* 凤老爷你怎么似了 */
   src: url("static/font/VonwaonBitmap-12px.ttf");
 }
 
@@ -162,7 +162,7 @@ input:-webkit-autofill {
 }
 .footer {
   padding: 15px 0;
-  font-family: VonwaonBitmap, 文泉驿点阵正黑, SimSun;
+  font-family: "凤凰点阵体", "文泉驿点阵正黑", SimSun;
   font-size: 12px;
 }
 .footer a {
