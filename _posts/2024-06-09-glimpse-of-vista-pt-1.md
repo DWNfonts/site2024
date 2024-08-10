@@ -9,6 +9,7 @@ Windows 可能是世界上最受欢迎的桌面操作系统了。在 Windows 的
 
 而今天我要说的，则是 Windows 鲜为人知的 typography。简中互联网多数以 Segoe UI 来「代表」Windows Vista 在字体方面的新颖之处，当然 Segoe UI 也并不新颖，在后来的 Windows 中皆有使用。而今天我要讲的，则是 Windows Vista 简体中文字体的故事。
 > 实际上，这是一篇回忆录。原先的资料已经走向了他们的 `/dev/null`，所以这篇文章很多地方都没有图，再加上我本人未完全掌握相关知识，如有勘误请见谅
+
 ## 初印象：Vista 正式版和 Pre-Reset 构建
 大家即使没有用过 Vista 也可能看到别人在用 Vista。对我来说，Vista 最初的记忆莫过于 oeasy 的各种教程了（[这就是一例](https://www.bilibili.com/video/BV1cs411o7yM)）。后来我加入了哔哩哔哩，看到了各种科技视频，于是就从「MSDN 我告诉你」下载了一张 Windows Vista 的镜像拿来玩。这字体跟 Windows 7 没什么区别（跟现在的 Windows 10 比杂了，并且那不是这篇文章讨论的对象），在我肉眼里，唯一的区别，可能就是「微软雅黑」的西文有点大。
 
